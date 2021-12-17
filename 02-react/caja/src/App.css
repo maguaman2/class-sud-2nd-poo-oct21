@@ -1,0 +1,11 @@
+.contPersonajes{
+  display: flex;
+  background: rgb(235, 235, 235);
+  flex-direction: row;
+  justify-content: center;
+  height: 600px ;
+  padding: 10px;
+
+ 
+
+}
